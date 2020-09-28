@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "53cc8026b750eda7b0418ee0b7abbc8b",
+    "content-hash": "732625cd7ec5259992661eaf8ab0ab9b",
     "packages": [
         {
             "name": "bryanjhv/slim-session",
@@ -56,16 +56,16 @@
         },
         {
             "name": "cpaas/cpaassdk",
-            "version": "v1.1.0",
+            "version": "v1.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Kandy-IO/kandy-cpaas-php-sdk.git",
-                "reference": "4824b9735f46cada0de3adf9d2b0dff3f028a0e2"
+                "reference": "195cf9a5f54bad7c3e28110c115f8f4a3913d5bb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Kandy-IO/kandy-cpaas-php-sdk/zipball/4824b9735f46cada0de3adf9d2b0dff3f028a0e2",
-                "reference": "4824b9735f46cada0de3adf9d2b0dff3f028a0e2",
+                "url": "https://api.github.com/repos/Kandy-IO/kandy-cpaas-php-sdk/zipball/195cf9a5f54bad7c3e28110c115f8f4a3913d5bb",
+                "reference": "195cf9a5f54bad7c3e28110c115f8f4a3913d5bb",
                 "shasum": ""
             },
             "require": {
@@ -94,7 +94,7 @@
                 }
             ],
             "description": "PHP SDK to build robust real-time communication applications.",
-            "time": "2020-05-12T05:52:26+00:00"
+            "time": "2020-09-25T13:40:34+00:00"
         },
         {
             "name": "fig/http-message-util",
@@ -672,16 +672,16 @@
         },
         {
             "name": "php-di/php-di",
-            "version": "6.2.2",
+            "version": "6.2.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/PHP-DI/PHP-DI.git",
-                "reference": "40140b5bca07c5fed6919a0f1029ff67617faccd"
+                "reference": "63c444646f5f41d84818af1c780abed8ebcc082c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/PHP-DI/PHP-DI/zipball/40140b5bca07c5fed6919a0f1029ff67617faccd",
-                "reference": "40140b5bca07c5fed6919a0f1029ff67617faccd",
+                "url": "https://api.github.com/repos/PHP-DI/PHP-DI/zipball/63c444646f5f41d84818af1c780abed8ebcc082c",
+                "reference": "63c444646f5f41d84818af1c780abed8ebcc082c",
                 "shasum": ""
             },
             "require": {
@@ -740,7 +740,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2020-08-23T16:23:17+00:00"
+            "time": "2020-09-24T12:21:43+00:00"
         },
         {
             "name": "php-di/phpdoc-reader",

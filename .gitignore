@@ -5,4 +5,5 @@
 .env
 src/
 notification.txt
+composer.lock
 .DS_Store
